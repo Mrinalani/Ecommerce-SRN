@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import HomePage from "./pages/HomePage";
 function App() {
   return (
-    <Box h={"100vh"} w={"100vw"}>
+    <Box  w={"100vw"}>
       <Container maxW={"620px"}>
         <Header />
         <Routes>
