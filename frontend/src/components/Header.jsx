@@ -6,7 +6,7 @@ import Logo from '../assets/Logo.jpg'
 
 const Header = () => {
   return (
-    <Box mt={"20px"}>
+    <Box mt={"20px"} mb={"20px"}>
         <Flex justifyContent={"space-between"}>
             <Link>
             <Box boxSize={"50px"} borderRadius={"full"} overflow={"hidden"}>
